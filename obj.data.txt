@@ -1,0 +1,4 @@
+10
+train = /content/data/train.txt
+names = /content/data/obj.names.txt
+backup = /content/gdrive/MyDrive/datasets/YOLO-Paper/Digits/backup
